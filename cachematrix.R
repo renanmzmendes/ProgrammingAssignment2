@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The functions bellow are used to create a special matrix
+## that caches its inverse and to compute the inverse of this
+## special matrix only when its inverse is not cached
 
 ## Creates a list that contains the following methods:
 ## - set the matrix value
